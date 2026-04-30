@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Zekiel-Server",
+    "password": "6969",
     "type": "offline"
   },
   "server": {
     "ip": "Zekiel.aternos.me",
     "port": 48495,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
