@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zekiel.aternos.me:48495",
+    "ip": "Zekiel.aternos.me",
     "port": 48495,
     "version": "",
     "try-creative": false
